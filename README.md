@@ -11,7 +11,7 @@ This repository contains the **open foundation** of the MOEasymmetry trading sys
 
 **What this is not:** the daily integrated alpha output, the proprietary System DI/U/V/W rules, or the live paper trade record. Those are gated behind the [paid platform](https://moeasymmetry.com) (coming Q1 2027).
 
-**Why open source?** *Anyone can compute RS — what you can't easily replicate is a daily integrated pipeline + 36 years of cross-market validated backtests + a live audit trail.* See our [transparency manifesto](docs/MANIFESTO.md).
+**Why open source?** *Anyone can compute RS — what you can't easily replicate is a daily integrated pipeline + 36 years of cross-market validated backtests + a live audit trail.* See our [transparency manifesto](docs/MANIFESTO.md) and the [8 methodology principles](docs/METHODOLOGY_PRINCIPLES.md) that govern every validation claim — including the kill switch that saved us from wiring 5 fake signals into the live pipeline in 36 hours.
 
 ---
 
